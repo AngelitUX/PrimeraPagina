@@ -83,14 +83,11 @@ nav ul.listlinks {
 }
 
 .hero-image {
-  background-color: var(--dark-gray);
-  width: 400px;
-  height: 200px;
+  width: 600px;
+  height: 300px;
   display: flex;
   justify-content: center;
   align-items: center;
-  color: white;
-  font-size: 16px;
 }
 
 .subtitle {
